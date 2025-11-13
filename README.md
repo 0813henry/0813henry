@@ -4,198 +4,169 @@
   </a>
 </h1>
 
+<h3 align="center">Web & Mobile Developer</h3>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="Coder GIF" width="300" height="300">
 </p>
-
-<h3 align="center">Desarrollador Web y Móvil | Ing. Sistemas</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=0813henry&label=Profile%20views&color=0e75b6&style=flat" alt="0813henry" />
 </p>
 
-#
+---
 
-<table align="center">
+## 👨‍💻 About Me
+
+<table>
   <tr>
-    <td width="50%" valign="top">
-      <h2>👨‍💻 Sobre mí</h2>
+    <td width="60%">
       
-      Desarrollador web y móvil con experiencia en la creación de aplicaciones funcionales e intuitivas. Manejo tecnologías como React, Next.js, Flutter y Node.js, junto con bases de datos MongoDB y servicios en la nube como Cloudinary.
-      
-      Actualmente curso Ingeniería de Sistemas (9º semestre) y también poseo experiencia en diseño inmobiliario con SketchUp y Vray. Me defino como una persona proactiva, creativa y orientada a resultados.
-      
-      - 👯 I am looking to collaborate on **innovative projects and add value to a work team**
-      - 👨‍💻 All of my projects are available at [https://github.com/0813henry?tab=repositories](https://github.com/0813henry?tab=repositories)
-      - 📫 How to reach me **hjosepertuz@gmail.com**
-      - 🌍 **Idiomas:** Español (Nativo) | English (Básico)
-    </td>
-    <td width="50%" valign="top" align="center">
-      <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" alt="Programming" width="400"/>
+Web and mobile developer with experience in creating functional and intuitive applications. I work with technologies such as React, Next.js, Flutter, and Node.js, along with MongoDB databases and cloud services like Cloudinary.
+
+Currently studying Systems Engineering (9th semester) and I also have experience in real estate design with SketchUp and Vray. I define myself as a proactive, creative, and results-oriented person.
+
+- 👯 I am looking to collaborate on **innovative projects and add value to a work team**
+- 👨‍💻 All of my projects are available at [https://github.com/0813henry?tab=repositories](https://github.com/0813henry?tab=repositories)
+- 📫 How to reach me **hjosepertuz@gmail.com**
+- 🌍 **Languages:** Spanish (Native) | English (Basic)
+
+</td>
+    <td width="40%">
+      <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" alt="Programming" width="100%"/>
     </td>
   </tr>
 </table>
 
-#
+---
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
+## 🛠️ Technologies That I Know
 
-<div align="center">
-  <h3>🌟 Frontend Frameworks and Tools</h3>
-</div>
+### 🌟 Frontend Frameworks and Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite&perline=6&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite&theme=dark" />
   </a>
 </p>
 
-<div align="center">
-  <h3>📟 Programming Languages</h3>
-</div>
+### 📟 Programming Languages
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,js,ts,cs&perline=5&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,java,js,ts,cs&theme=dark" />
   </a>
 </p>
 
-<div align="center">
-  <h3>🌐 Backend Frameworks</h3>
-</div>
+### 🌐 Backend Frameworks
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express&perline=2&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
   </a>
 </p>
 
-<div align="center">
-  <h3>📱 Mobile Development</h3>
-</div>
+### 📱 Mobile Development
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart&perline=2&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" />
   </a>
 </p>
 
-<div align="center">
-  <h3>💾 Database</h3>
-</div>
+### 💾 Database
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,firebase&perline=2&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=mongodb,firebase&theme=dark" />
   </a>
 </p>
 
-<div align="center">
-  <h3>☁️ Cloud Services and Git</h3>
-</div>
+### ☁️ Cloud Services and Git
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,git,github&perline=3&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=postman,git,github&theme=dark" />
   </a>
 </p>
 
-<div align="center">
-  <h3>🎮 Game Development</h3>
-</div>
+### 🎮 Game Development
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity&perline=1&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=unity&theme=dark" />
   </a>
 </p>
 
-<div align="center">
-  <h3>📦 Package Managers and Containers</h3>
-</div>
+### 📦 Package Managers and Containers
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes&perline=2&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" />
   </a>
 </p>
 
-<div align="center">
-  <h3>🖌️ Design Tools & 🛠️ Other Tools</h3>
-</div>
+### 🖌️ Design Tools & 🛠️ Other Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sketchup,vscode,arduino,eslint&perline=4&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=sketchup,vscode,arduino,eslint&theme=dark" />
   </a>
 </p>
 
-#
+---
 
-<table align="center">
+## 📫 Connect With Me
+
+<table>
   <tr>
-    <td width="50%" valign="top" align="center">
-      <img src="https://media.giphy.com/media/GghGKaZ8JeHJx0apQC/giphy.gif" alt="Coding" width="400"/>
+    <td width="40%">
+      <img src="https://media.giphy.com/media/GghGKaZ8JeHJx0apQC/giphy.gif" alt="Coding" width="100%"/>
     </td>
-    <td width="50%" valign="top">
-      <div id="user-content-toc">
-        <ul align="center">
-          <summary><h2 style="display: inline-block"> 📫 Connect With Me🤝</h2></summary>
-        </ul>
-      </div>
+    <td width="60%">
       
-      <p align="center">
-        <a href="https://www.linkedin.com/in/your-profile" target="blank">
-          <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="50" width="50" />
-        </a>
-        <a href="mailto:hjosepertuz@gmail.com" target="blank">
-          <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="50" width="50" />
-        </a>
-        <a href="https://wa.me/573046659594" target="blank">
-          <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" height="50" width="50" />
-        </a>
-      </p>
-    </td>
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-profile" target="blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="60" width="60" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:hjosepertuz@gmail.com" target="blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="60" width="60" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/573046659594" target="blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" height="60" width="60" />
+  </a>
+</p>
+
+</td>
   </tr>
 </table>
 
-#
+---
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">MY GITHUB STATS 📈</h2></summary>
-  </ul>
-</div>
+## 📈 GitHub Stats
 
-<table align="center">
+<table>
   <tr>
-    <td width="50%" valign="top" align="center">
-      <img src="https://media.giphy.com/media/66M6ZwJkTLYikvhrqZ/giphy.gif" alt="Debugging" width="350"/>
+    <td width="40%">
+      <img src="https://media.giphy.com/media/66M6ZwJkTLYikvhrqZ/giphy.gif" alt="Debugging" width="100%"/>
     </td>
-    <td width="50%" valign="top">
-      <p align="center">
-        <a href="https://github.com/0813henry">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0813henry&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-        </a>
-      </p>
+    <td width="60%">
+      <img src="https://github-readme-stats.vercel.app/api?username=0813henry&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <a href="https://github.com/0813henry">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0813henry&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0813henry&layout=compact&langs_count=8&theme=algolia" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0813henry&theme=algolia" alt="0813henry" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0813henry&theme=algolia" alt="GitHub Streak" />
 </p>
+
+---
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/4f/f0/88/4ff088795aff41e835671f1479fa0366.gif" alt="Banner GIF" width="100%" />
