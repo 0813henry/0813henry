@@ -82,14 +82,6 @@ Currently studying Systems Engineering (9th semester) and I also have experience
   </a>
 </p>
 
-### ☁️ Cloud Services and Git
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,git,github&theme=dark" />
-  </a>
-</p>
-
 ### 🎮 Game Development
 
 <p align="center">
@@ -102,7 +94,7 @@ Currently studying Systems Engineering (9th semester) and I also have experience
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=npm,docker,kubernetes&theme=dark" />
   </a>
 </p>
 
@@ -110,8 +102,22 @@ Currently studying Systems Engineering (9th semester) and I also have experience
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sketchup,vscode,arduino,eslint&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=figma,notion,vscode,arduino,eslint&theme=dark" />
   </a>
+</p>
+
+### 💻 Operating Systems & Platforms
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,kali,debian,virtualbox&theme=dark" />
+  </a>
+</p>
+
+### ☁️ Cloud Storage & Services
+
+<p align="center">
+  <img src="https://res.cloudinary.com/cloudinary-marketing/image/upload/w_48,h_48/v1/creative_staging/cloudinary_internal/Website/Brand%20Updates/Cloudinary-icon.png" alt="Cloudinary" height="48" width="48" />
 </p>
 
 ---
@@ -158,12 +164,28 @@ Currently studying Systems Engineering (9th semester) and I also have experience
   </tr>
 </table>
 
+<br>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0813henry&layout=compact&langs_count=8&theme=algolia" alt="Top Languages" />
 </p>
 
+<br>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0813henry&theme=algolia" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0813henry&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=0813henry&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.vercel.app/?user=0813henry&theme=algolia&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ---
