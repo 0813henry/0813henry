@@ -1,224 +1,100 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!+I'm+Henry.;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
-  </a>
-</h1>
+<div align="center">
 
-<h3 align="center">Web & Mobile Developer</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=4F8CF7&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Henry+Pertuz+%F0%9F%91%8B;Full+Stack+Developer+%7C+Applied+AI;Next.js+%C2%B7+Node.js+%C2%B7+TypeScript+%C2%B7+Flutter" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="Coder GIF" width="300" height="300">
-</p>
+**Junior Full Stack Developer · Applied AI · Valledupar, Colombia 🇨🇴**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0813henry&label=Profile%20views&color=0e75b6&style=flat" alt="0813henry" />
-</p>
+I build web and mobile products end to end — from Next.js interfaces to Node.js/NestJS APIs, PostgreSQL and MongoDB databases, and CI/CD pipelines — and I integrate AI into them.
 
----
+<a href="https://henrypertuzinfo.vercel.app"><img src="https://img.shields.io/badge/Portfolio-henrypertuzinfo.vercel.app-4F8CF7?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/henry-pertuz"><img src="https://img.shields.io/badge/LinkedIn-henry--pertuz-0A66C2?style=flat-square" alt="LinkedIn"/></a>
+<a href="mailto:hjosepertuz@gmail.com"><img src="https://img.shields.io/badge/Email-hjosepertuz%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://henrypertuzinfo.vercel.app/Henry_Pertuz_CV.pdf"><img src="https://img.shields.io/badge/CV-Download-222222?style=flat-square&logo=readdotcv&logoColor=white" alt="Download CV"/></a>
 
-## 👨‍💻 About Me
-
-<table>
-  <tr>
-    <td width="60%">
-      
-Web and mobile developer with experience in creating functional and intuitive applications. I work with technologies such as React, Next.js, Flutter, and Node.js, along with MongoDB databases and cloud services like Cloudinary.
-
-Currently studying Systems Engineering (9th semester) and I also have experience in real estate design with SketchUp and Vray. I define myself as a proactive, creative, and results-oriented person.
-
-- 👯 I am looking to collaborate on **innovative projects and add value to a work team**
-- 👨‍💻 All of my projects are available at [https://github.com/0813henry?tab=repositories](https://github.com/0813henry?tab=repositories)
-- 📫 How to reach me **hjosepertuz@gmail.com**
-- 🌍 **Languages:** Spanish (Native) | English (Basic)
-
-</td>
-    <td width="40%">
-      <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" alt="Programming" width="100%"/>
-    </td>
-  </tr>
-</table>
+</div>
 
 ---
 
-## 🛠️ Technologies That I Know
+### 👨‍💻 About me
 
-### 🌟 Frontend Frameworks and Libraries
-
-<p align="center">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-</p>
-
-### 📟 Programming Languages
-
-<p align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-</p>
-
-### 🌐 Backend Frameworks
-
-<p align="center">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
-</p>
-
-### 📱 Mobile Development
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
-</p>
-
-### 💾 Database
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-</p>
-
-### 🎮 Game Development
-
-<p align="center">
-  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
-</p>
-
-### 📦 Package Managers and Containers
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-</p>
-
-### 🖌️ Design Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
-  <img src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white" alt="SketchUp"/>
-</p>
-
-### 🛠️ Other Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint"/>
-  <img src="https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD" alt="SonarQube"/>
-</p>
-
-### 💻 Operating Systems & Platforms
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-  <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali"/>
-  <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-</p>
-
-### ☁️ Cloud Storage & Services
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary"/>
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-</p>
-
-### 💳 Payment Processing
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
-  <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white" alt="Stripe"/>
-</p>
-
-### 🔧 Version Control
-
-<p align="center">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</p>
+- 💼 **Freelance Full Stack Developer** — I've shipped production platforms for real clients, like the official site and admin dashboard of the [Valledupar Cup](https://www.valleduparcup.co/torneo) youth tournament.
+- 🎓 **Systems Engineering student** at Universidad Popular del Cesar — all coursework completed; currently finishing my capstone project, **BoviData**.
+- 🤖 **Applied AI** — integrating LLMs, RAG and agents into products, and building every day with AI coding tools such as Claude Code, GitHub Copilot and Cursor.
+- 🚀 **Open to** Full Stack and AI-focused roles — remote, hybrid or on-site.
+- 🌍 Spanish (native) · English (A2, technical reading)
 
 ---
 
-## 📫 Connect With Me
+### 🚀 Featured projects
 
-<table>
-  <tr>
-    <td width="40%">
-      <img src="https://media.giphy.com/media/GghGKaZ8JeHJx0apQC/giphy.gif" alt="Coding" width="100%"/>
-    </td>
-    <td width="60%">
-      
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-profile" target="blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="60" width="60" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:hjosepertuz@gmail.com" target="blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="60" width="60" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/573046659594" target="blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" height="60" width="60" />
-  </a>
-</p>
-
-</td>
-  </tr>
-</table>
+| Project | What it is | Stack |
+|---|---|---|
+| **BoviData** <br><sub>Capstone · in development · private</sub> | Offline-first livestock management platform: **26 app modules**, a NestJS API with **37 data models** and **31 REST endpoints**, bidirectional sync, role-based permissions, a predictive-alerts module and **80 automated tests** running on GitHub Actions. | Flutter · Riverpod · Drift · NestJS · Prisma · PostgreSQL · Supabase · Jest |
+| **[Valledupar Cup](https://www.valleduparcup.co/torneo)** <br><sub>Freelance · live</sub> | Official platform of a youth soccer tournament: **24 public pages**, a **13-view admin dashboard**, 8 data models, Cloudinary image pipeline, PDF reports and SEO sitemap. | Next.js · TypeScript · Auth.js · MongoDB · Cloudinary |
+| **[TaskFlow](https://github.com/0813henry/TaskFlow)** | Full Stack task manager built with **hexagonal architecture** (ports & adapters), JWT + bcrypt auth and Zod validation on both ends. | Node.js · Express · MongoDB · React · Tailwind |
+| **[PlaylistsNow](https://github.com/0813henry/playlistsnow)** | DevOps project: **3 Azure DevOps pipelines** that build and push Docker images, deployed to **Kubernetes** with 3 replicas, Services and Secrets. | Azure DevOps · Docker · Kubernetes · Node.js |
+| **[E-commerce Helmets](https://github.com/0813henry/ecommerce-casco)** | Online store + admin panel with catalog, cart, Stripe payments and image uploads. | React · Express · MongoDB Atlas · Stripe |
+| **[Pathfinding](https://github.com/0813henry/Pathfinding)** | Classical AI: A* heuristic search and Dijkstra visualized in real time on an interactive map. | React · deck.gl · MapLibre |
 
 ---
 
-## 📈 GitHub Stats
+### 🤖 AI stack
 
-<table>
-  <tr>
-    <td width="40%">
-      <img src="https://media.giphy.com/media/66M6ZwJkTLYikvhrqZ/giphy.gif" alt="Debugging" width="100%"/>
-    </td>
-    <td width="60%">
-      <img src="https://github-readme-stats.vercel.app/api?username=0813henry&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0813henry&layout=compact&langs_count=8&theme=algolia" alt="Top Languages" />
+<p>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude"/>
+  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
+  <img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel AI SDK"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/RAG_%C2%B7_pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="RAG with pgvector"/>
+  <img src="https://img.shields.io/badge/MCP-111111?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
 </p>
 
+**Building with:**
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code"/>
+<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
+<img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor"/>
+<img src="https://img.shields.io/badge/Codex-412991?style=flat-square" alt="OpenAI Codex"/>
+<img src="https://img.shields.io/badge/Playwright_MCP-2EAD33?style=flat-square" alt="Playwright MCP"/>
+
+---
+
+### 🛠️ Tech stack
+
+**Frontend**
 <br>
+<img src="https://skillicons.dev/icons?i=nextjs,react,angular,ts,js,tailwind,threejs&perline=10" alt="Frontend"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0813henry&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
-</p>
-
+**Backend**
 <br>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma,spring,java,py&perline=10" alt="Backend"/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0813henry&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
+**Databases**
 <br>
+<img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,firebase,mysql,sqlite&perline=10" alt="Databases"/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=0813henry&theme=algolia&hide_border=true" alt="GitHub Streak Stats" />
-</p>
+**Mobile**
+<br>
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&perline=10" alt="Mobile"/>
+
+**DevOps & quality**
+<br>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,githubactions,vercel,git,jest&perline=10" alt="DevOps"/>
+
+---
+
+### 📈 GitHub activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=0813henry&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=4F8CF7&icon_color=4F8CF7" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0813henry&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=4F8CF7" alt="Top languages"/>
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/4f/f0/88/4ff088795aff41e835671f1479fa0366.gif" alt="Banner GIF" width="100%" />
+
+**Let's build something together →** [hjosepertuz@gmail.com](mailto:hjosepertuz@gmail.com) · [WhatsApp](https://wa.me/573046659594)
+
 </div>
