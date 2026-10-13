@@ -1,100 +1,55 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=4F8CF7&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Henry+Pertuz+%F0%9F%91%8B;Full+Stack+Developer+%7C+Applied+AI;Next.js+%C2%B7+Node.js+%C2%B7+TypeScript+%C2%B7+Flutter" alt="Typing SVG" />
+<img src="./assets/banner.svg" width="100%" alt="Henry Pertuz — Full Stack Developer · Applied AI. I build web and mobile products end to end and wire AI into them." />
 
-**Junior Full Stack Developer · Applied AI · Valledupar, Colombia 🇨🇴**
+<br/>
 
-I build web and mobile products end to end — from Next.js interfaces to Node.js/NestJS APIs, PostgreSQL and MongoDB databases, and CI/CD pipelines — and I integrate AI into them.
-
-<a href="https://henrypertuzinfo.vercel.app"><img src="https://img.shields.io/badge/Portfolio-henrypertuzinfo.vercel.app-4F8CF7?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://linkedin.com/in/henry-pertuz"><img src="https://img.shields.io/badge/LinkedIn-henry--pertuz-0A66C2?style=flat-square" alt="LinkedIn"/></a>
-<a href="mailto:hjosepertuz@gmail.com"><img src="https://img.shields.io/badge/Email-hjosepertuz%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://henrypertuzinfo.vercel.app/Henry_Pertuz_CV.pdf"><img src="https://img.shields.io/badge/CV-Download-222222?style=flat-square&logo=readdotcv&logoColor=white" alt="Download CV"/></a>
+<a href="https://henrypertuzinfo.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0E1325?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/henry-pertuz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
+<a href="mailto:hjosepertuz@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://henrypertuzinfo.vercel.app/Henry_Pertuz_CV.pdf"><img src="https://img.shields.io/badge/Download_CV-4F46E5?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Download CV"/></a>
 
 </div>
 
----
+<br/>
 
-### 👨‍💻 About me
+> **Full Stack Developer** with freelance work in production — I take products from the database to the interface with **Next.js, Node.js/NestJS, PostgreSQL and Flutter**, ship them with **CI/CD**, and integrate **AI**: LLM APIs, RAG and agents. Systems Engineering student in the final stage, based in Valledupar, Colombia 🇨🇴 · open to remote, hybrid or on-site roles.
 
-- 💼 **Freelance Full Stack Developer** — I've shipped production platforms for real clients, like the official site and admin dashboard of the [Valledupar Cup](https://www.valleduparcup.co/torneo) youth tournament.
-- 🎓 **Systems Engineering student** at Universidad Popular del Cesar — all coursework completed; currently finishing my capstone project, **BoviData**.
-- 🤖 **Applied AI** — integrating LLMs, RAG and agents into products, and building every day with AI coding tools such as Claude Code, GitHub Copilot and Cursor.
-- 🚀 **Open to** Full Stack and AI-focused roles — remote, hybrid or on-site.
-- 🌍 Spanish (native) · English (A2, technical reading)
+## ◆ Selected work
 
----
-
-### 🚀 Featured projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| **BoviData** <br><sub>Capstone · in development · private</sub> | Offline-first livestock management platform: **26 app modules**, a NestJS API with **37 data models** and **31 REST endpoints**, bidirectional sync, role-based permissions, a predictive-alerts module and **80 automated tests** running on GitHub Actions. | Flutter · Riverpod · Drift · NestJS · Prisma · PostgreSQL · Supabase · Jest |
-| **[Valledupar Cup](https://www.valleduparcup.co/torneo)** <br><sub>Freelance · live</sub> | Official platform of a youth soccer tournament: **24 public pages**, a **13-view admin dashboard**, 8 data models, Cloudinary image pipeline, PDF reports and SEO sitemap. | Next.js · TypeScript · Auth.js · MongoDB · Cloudinary |
-| **[TaskFlow](https://github.com/0813henry/TaskFlow)** | Full Stack task manager built with **hexagonal architecture** (ports & adapters), JWT + bcrypt auth and Zod validation on both ends. | Node.js · Express · MongoDB · React · Tailwind |
-| **[PlaylistsNow](https://github.com/0813henry/playlistsnow)** | DevOps project: **3 Azure DevOps pipelines** that build and push Docker images, deployed to **Kubernetes** with 3 replicas, Services and Secrets. | Azure DevOps · Docker · Kubernetes · Node.js |
-| **[E-commerce Helmets](https://github.com/0813henry/ecommerce-casco)** | Online store + admin panel with catalog, cart, Stripe payments and image uploads. | React · Express · MongoDB Atlas · Stripe |
-| **[Pathfinding](https://github.com/0813henry/Pathfinding)** | Classical AI: A* heuristic search and Dijkstra visualized in real time on an interactive map. | React · deck.gl · MapLibre |
-
----
-
-### 🤖 AI stack
-
-<p>
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude"/>
-  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
-  <img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel AI SDK"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/RAG_%C2%B7_pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="RAG with pgvector"/>
-  <img src="https://img.shields.io/badge/MCP-111111?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
+<p align="center">
+  <img src="./assets/card-bovidata.svg" width="49%" alt="BoviData: offline-first livestock platform — 26 app modules, 37 data models, 80 automated tests. Flutter, NestJS, Prisma, PostgreSQL, Supabase."/>
+  <a href="https://www.valleduparcup.co/torneo"><img src="./assets/card-valleduparcup.svg" width="49%" alt="Valledupar Cup: official youth soccer tournament platform — 24 public pages, 13 admin views, 13 API endpoints. Next.js, TypeScript, Auth.js, MongoDB."/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/0813henry/TaskFlow"><img src="./assets/card-taskflow.svg" width="49%" alt="TaskFlow: MERN task manager with hexagonal architecture, JWT and bcrypt auth, Zod validation."/></a>
+  <a href="https://github.com/0813henry/playlistsnow"><img src="./assets/card-playlistsnow.svg" width="49%" alt="PlaylistsNow: 3 Azure DevOps pipelines shipping Docker images to Kubernetes with 3 replicas."/></a>
 </p>
 
-**Building with:**
-<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code"/>
-<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
-<img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor"/>
-<img src="https://img.shields.io/badge/Codex-412991?style=flat-square" alt="OpenAI Codex"/>
-<img src="https://img.shields.io/badge/Playwright_MCP-2EAD33?style=flat-square" alt="Playwright MCP"/>
+<sub>Also: <a href="https://github.com/0813henry/ecommerce-casco">E-commerce with Stripe</a> · <a href="https://github.com/0813henry/MEAN-Biblioteca">MEAN Library (Angular 20)</a> · <a href="https://github.com/0813henry/Pathfinding">A* / Dijkstra visualizer</a> · Bellnat (Next.js + Three.js) · Strawberry store (Next.js + MongoDB)</sub>
 
----
+## ◆ AI toolkit
 
-### 🛠️ Tech stack
+| Building AI features | Building *with* AI |
+|---|---|
+| OpenAI · Anthropic Claude · Google Gemini APIs | Claude Code |
+| Vercel AI SDK · LangChain | GitHub Copilot · Cursor |
+| RAG · embeddings · pgvector · Atlas Vector Search | OpenAI Codex · Gemini CLI |
+| Agents · tool use · Model Context Protocol (MCP) | Playwright MCP for UI testing |
+| Local models with Ollama | |
 
-**Frontend**
-<br>
-<img src="https://skillicons.dev/icons?i=nextjs,react,angular,ts,js,tailwind,threejs&perline=10" alt="Frontend"/>
+## ◆ Stack
 
-**Backend**
-<br>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma,spring,java,py&perline=10" alt="Backend"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,angular,ts,tailwind,threejs,nodejs,nestjs,express,prisma&perline=10" alt="Web and API stack"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,firebase,flutter,dart,docker,kubernetes,azure,githubactions&perline=10" alt="Data, mobile and DevOps stack"/>
+</p>
 
-**Databases**
-<br>
-<img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,firebase,mysql,sqlite&perline=10" alt="Databases"/>
+## ◆ Contributions
 
-**Mobile**
-<br>
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&perline=10" alt="Mobile"/>
-
-**DevOps & quality**
-<br>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,githubactions,vercel,git,jest&perline=10" alt="DevOps"/>
-
----
-
-### 📈 GitHub activity
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=0813henry&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=4F8CF7&icon_color=4F8CF7" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0813henry&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=4F8CF7" alt="Top languages"/>
-</div>
-
----
-
-<div align="center">
-
-**Let's build something together →** [hjosepertuz@gmail.com](mailto:hjosepertuz@gmail.com) · [WhatsApp](https://wa.me/573046659594)
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0813henry/0813henry/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0813henry/0813henry/output/github-snake.svg" />
+  <img alt="Snake animation eating Henry's GitHub contribution graph" src="https://raw.githubusercontent.com/0813henry/0813henry/output/github-snake.svg" width="100%" />
+</picture>

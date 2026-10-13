@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="270" viewBox="0 0 600 270" role="img" aria-label="PlaylistsNow: Azure DevOps pipelines that build and ship Docker images to a Kubernetes cluster.">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0E1325"/><stop offset="1" stop-color="#0A0E1B"/></linearGradient>
+    <clipPath id="cl"><rect width="600" height="270" rx="16"/></clipPath>
+    <radialGradient id="r" cx="1" cy="0" r="0.7"><stop offset="0" stop-color="#A78BFA" stop-opacity="0.22"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/></radialGradient>
+  </defs>
+  <style>
+    .t { font: 800 30px 'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif; fill:#F8FAFC; }
+    .tag { font: 700 12px 'SFMono-Regular',Consolas,Menlo,monospace; letter-spacing: 2px; }
+    .d { font: 400 16px 'Segoe UI','Inter',Arial,sans-serif; fill:#AAB4D4; }
+    .n { font-family:'Segoe UI','Inter',Arial,sans-serif; font-weight:800; }
+    .l { font: 500 13px 'Segoe UI','Inter',Arial,sans-serif; fill:#8A94B8; }
+    .s { font: 500 13px 'SFMono-Regular',Consolas,Menlo,monospace; fill:#C7D2FE; }
+  </style>
+  <rect width="600" height="270" rx="16" fill="url(#g)"/>
+  <rect width="600" height="270" rx="16" fill="url(#r)"/>
+  <rect x="0" y="0" width="6" height="270" fill="#A78BFA" clip-path="url(#cl)"/>
+  <text x="32" y="40" class="tag" fill="#A78BFA">DEVOPS  ·  CI/CD</text>
+  <text x="32" y="80" class="t">PlaylistsNow</text>
+  <text x="32" y="112" class="d">Azure DevOps pipelines that build and ship</text><text x="32" y="134" class="d">Docker images to a Kubernetes cluster.</text>
+  <text x="32" y="196" class="n" style="font-size:34px" fill="#A78BFA">3</text><text x="32" y="216" class="l">CI/CD pipelines</text><text x="212" y="196" class="n" style="font-size:34px" fill="#A78BFA">3</text><text x="212" y="216" class="l">pod replicas</text><text x="392" y="196" class="n" style="font-size:34px" fill="#A78BFA">2</text><text x="392" y="216" class="l">services</text>
+  <line x1="32" y1="234" x2="568" y2="234" stroke="#222B4A"/>
+  <text x="32" y="256" class="s">Azure DevOps · Docker · Kubernetes · Node.js</text>
+  <rect x="0.5" y="0.5" width="599" height="269" rx="15.5" fill="none" stroke="#232C4D"/>
+</svg>
