@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="496" viewBox="0 0 860 496" role="img" aria-labelledby="t d">
+  <title id="t">Henry Pertuz terminal</title>
+  <desc id="d">An animated terminal introducing Henry Pertuz, Full Stack Developer focused on applied AI, with his stack, shipped projects and current status.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#11151F"/>
+      <stop offset="1" stop-color="#0B0E15"/>
+    </linearGradient>
+    <clipPath id="c1"><rect x="0" y="40" height="30" width="0"><animate attributeName="width" from="0" to="860" begin="0.4s" dur="0.9s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c2"><rect x="0" y="100" height="30" width="0"><animate attributeName="width" from="0" to="860" begin="2.0s" dur="1.0s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c3"><rect x="0" y="316" height="30" width="0"><animate attributeName="width" from="0" to="860" begin="4.6s" dur="0.9s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c4"><rect x="0" y="376" height="30" width="0"><animate attributeName="width" from="0" to="860" begin="6.0s" dur="0.9s" fill="freeze"/></rect></clipPath>
+  </defs>
+  <style>
+    .mono { font-family: 'SFMono-Regular', 'JetBrains Mono', Consolas, 'Liberation Mono', Menlo, monospace; font-size: 15.5px; }
+    .p  { fill: #7EE787; }  /* user */
+    .h  { fill: #79C0FF; }  /* path */
+    .w  { fill: #E6EDF3; }  /* text */
+    .m  { fill: #8B949E; }  /* muted */
+    .k  { fill: #FFA657; }  /* keys */
+    .s  { fill: #A5D6FF; }  /* strings */
+    .a  { fill: #D2A8FF; }  /* accent */
+    .g  { fill: #7EE787; }
+  </style>
+
+  <rect width="860" height="496" rx="14" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="859" height="495" rx="13.5" fill="none" stroke="#30363D"/>
+  <!-- window chrome -->
+  <circle cx="26" cy="22" r="6.5" fill="#FF5F57"/>
+  <circle cx="48" cy="22" r="6.5" fill="#FEBC2E"/>
+  <circle cx="70" cy="22" r="6.5" fill="#28C840"/>
+  <text x="430" y="27" text-anchor="middle" class="mono m" style="font-size:13px">henry@valledupar: ~/portfolio</text>
+  <line x1="0" y1="44" x2="860" y2="44" stroke="#21262D"/>
+
+  <g class="mono" xml:space="preserve" style="white-space:pre">
+    <!-- 1: whoami -->
+    <text x="28" y="64" clip-path="url(#c1)"><tspan class="p">henry</tspan><tspan class="m">:</tspan><tspan class="h">~</tspan><tspan class="w"> $ whoami</tspan></text>
+    <text x="28" y="90" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.4s" dur="0.3s" fill="freeze"/><tspan class="a" font-weight="700">Henry Pertuz</tspan><tspan class="w"> — Full Stack Developer · Applied AI · Colombia</tspan></text>
+
+    <!-- 2: cat stack.json -->
+    <text x="28" y="124" clip-path="url(#c2)"><tspan class="p">henry</tspan><tspan class="m">:</tspan><tspan class="h">~</tspan><tspan class="w"> $ cat stack.json</tspan></text>
+    <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="3.1s" dur="0.4s" fill="freeze"/>
+      <text x="28" y="150" class="w">{</text>
+            <text y="176"><tspan x="48" class="k">"web"</tspan><tspan x="112" class="w">: [</tspan><tspan class="s">"Next.js", "React", "TypeScript", "Angular"</tspan><tspan class="w">],</tspan></text>
+      <text y="202"><tspan x="48" class="k">"api"</tspan><tspan x="112" class="w">: [</tspan><tspan class="s">"Node.js", "NestJS", "Prisma", "Express"</tspan><tspan class="w">],</tspan></text>
+      <text y="228"><tspan x="48" class="k">"data"</tspan><tspan x="112" class="w">: [</tspan><tspan class="s">"PostgreSQL", "Supabase", "MongoDB"</tspan><tspan class="w">],</tspan></text>
+      <text y="254"><tspan x="48" class="k">"ai"</tspan><tspan x="112" class="w">: [</tspan><tspan class="s">"LLM APIs", "RAG", "Agents", "MCP", "Ollama"</tspan><tspan class="w">],</tspan></text>
+      <text y="280"><tspan x="48" class="k">"ops"</tspan><tspan x="112" class="w">: [</tspan><tspan class="s">"Docker", "Kubernetes", "Azure DevOps", "Flutter"</tspan><tspan class="w">]</tspan></text>
+      <text x="28" y="306" class="w">}</text>
+    </g>
+
+    <!-- 3: ls ./shipped -->
+    <text x="28" y="340" clip-path="url(#c3)"><tspan class="p">henry</tspan><tspan class="m">:</tspan><tspan class="h">~</tspan><tspan class="w"> $ ls ./shipped</tspan></text>
+    <text x="28" y="366" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="5.6s" dur="0.3s" fill="freeze"/><tspan x="28" class="h" font-weight="700">valledupar-cup/</tspan><tspan x="210" class="h" font-weight="700">bovidata/</tspan><tspan x="336" class="h" font-weight="700">taskflow/</tspan><tspan x="462" class="h" font-weight="700">playlistsnow/</tspan><tspan x="626" class="h" font-weight="700">bellnat/</tspan></text>
+
+    <!-- 4: echo $STATUS -->
+    <text x="28" y="400" clip-path="url(#c4)"><tspan class="p">henry</tspan><tspan class="m">:</tspan><tspan class="h">~</tspan><tspan class="w"> $ echo $STATUS</tspan></text>
+    <text x="28" y="426" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="7.0s" dur="0.3s" fill="freeze"/><tspan class="g">●</tspan><tspan class="w"> Open to Full Stack &amp; AI roles — remote · hybrid · on-site</tspan></text>
+
+    <!-- prompt + blinking cursor -->
+    <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="7.6s" dur="0.1s" fill="freeze"/>
+      <text x="28" y="462"><tspan class="p">henry</tspan><tspan class="m">:</tspan><tspan class="h">~</tspan><tspan class="w"> $ </tspan></text>
+      <rect x="122" y="449" width="9" height="18" fill="#E6EDF3"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.05s" repeatCount="indefinite"/></rect>
+    </g>
+  </g>
+</svg>
